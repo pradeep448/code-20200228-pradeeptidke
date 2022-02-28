@@ -4,6 +4,10 @@ This is README file for BMI calculator app
 # Requirements:
 
     Python 3.x 
+## Install libraries
+```bash
+pip install tabulate
+```
 
 
 # File structure:
