@@ -1,20 +1,10 @@
 
 This is README file for BMI calculator app
 
-Contents:
-# Requirements
-# File structure
-# Run Example design 
-    ## Expected Example design output
-
-##################################
-
 # Requirements:
 
     Python 3.x 
 
-
-##################################
 
 # File structure:
 
@@ -25,8 +15,6 @@ bmi_cal/
     bmi_example.py: example design file
     bmi_main.py: main application file to be used and edited by user
 
-
-##################################
 
 # Run Example design
 
@@ -56,6 +44,6 @@ Enhanced          1
 
  Execution time: <your_execution_seconds> seconds
  
-##################################
+
 
 
