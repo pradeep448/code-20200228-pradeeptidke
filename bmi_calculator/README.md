@@ -8,7 +8,7 @@ This project calculates BMI of people, whose data stored in json file.
 
 ## Prerequisites
 
-Use python on windows cmd prompt
+Use python on windows cmd prompt\n
 Use python3 on linux terminal
 
 ### Install libraries
